@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100mm" height="60mm" viewBox="0 0 100 60">
+  <rect x="0.5" y="0.5" width="99" height="59" rx="2" fill="none" stroke="black" stroke-width="0.5"/>
+  <text x="50" y="9" text-anchor="middle" font-family="Arial" font-size="6" font-weight="bold">TRIFUSIÓN 3D</text>
+  <text x="50" y="16" text-anchor="middle" font-family="Arial" font-size="4.3" font-weight="bold">SMART DRY CABINET</text>
+  <line x1="7" y1="20" x2="93" y2="20" stroke="black" stroke-width="0.35"/>
+  <text x="8" y="26" font-family="Arial" font-size="3.5">Modelo:</text>
+  <text x="35" y="26" font-family="Arial" font-size="3.5">TF3D-SDC-01</text>
+  <text x="8" y="32" font-family="Arial" font-size="3.5">No. de serie:</text>
+  <text x="35" y="32" font-family="Arial" font-size="3.5">TF3D-SDC-000001</text>
+  <text x="8" y="38" font-family="Arial" font-size="3.5">Versión HW:</text>
+  <text x="35" y="38" font-family="Arial" font-size="3.5">1.0</text>
+  <text x="55" y="38" font-family="Arial" font-size="3.5">Versión FW:</text>
+  <text x="80" y="38" font-family="Arial" font-size="3.5">1.0</text>
+  <text x="8" y="44" font-family="Arial" font-size="3.5">Alimentación:</text>
+  <text x="35" y="44" font-family="Arial" font-size="3.5">127 VCA / 12 VCC</text>
+  <text x="8" y="50" font-family="Arial" font-size="3.5">Fabricado en México</text>
+  <text x="92" y="55" text-anchor="end" font-family="Arial" font-size="2.8">2026</text>
+</svg>

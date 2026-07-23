@@ -1,0 +1,7 @@
+﻿Código,Descripción,Cantidad,Largo_mm,Ancho_mm,Espesor_mm,Material,Canteado
+TF3D-001,Lateral izquierdo,1,1000,500,18,Melamina blanca,"PVC 2 mm: frente, arriba y abajo"
+TF3D-002,Lateral derecho,1,1000,500,18,Melamina blanca,"PVC 2 mm: frente, arriba y abajo"
+TF3D-003,Base,1,764,500,18,Melamina blanca,PVC 1 mm: frente
+TF3D-004,Tapa,1,764,500,18,Melamina blanca,PVC 1 mm: frente
+TF3D-005,Fondo interior,1,964,764,18,Melamina blanca,PVC 1 mm: cuatro cantos
+TF3D-013,Tapa compartimento técnico,1,764,450,18,Melamina blanca,PVC 1 mm: cuatro cantos

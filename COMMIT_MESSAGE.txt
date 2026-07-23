@@ -1,6 +1,7 @@
-feat(cad): add Sprint 3.1 editable cabinet structure
+feat(cad): complete Sprint 3.2 prototype mechanical package
 
-- initialize engineering repository
-- add fixed-dimension OpenSCAD parts
-- add initial TF3D-SDC-01 assembly
-- add preliminary cut list and manufacturing notes
+- add sealed door system and identification plate
+- add individual 3D printed spool supports for 16 spools
+- add technical compartment and mechanical provisions
+- add cut, hardware and drilling lists
+- add assembly, risk and validation documentation
