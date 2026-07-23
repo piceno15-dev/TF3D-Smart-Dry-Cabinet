@@ -1,0 +1,6 @@
+feat(cad): add Sprint 3.1 editable cabinet structure
+
+- initialize engineering repository
+- add fixed-dimension OpenSCAD parts
+- add initial TF3D-SDC-01 assembly
+- add preliminary cut list and manufacturing notes

@@ -1,0 +1,16 @@
+*.stl
+*.3mf
+cad/step/*.step
+cad/step/*.stp
+cad/stl/*.stl
+cad/dxf/*.dxf
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
+.env
+__pycache__/
+*.pyc
+*.tmp
+*.bak
